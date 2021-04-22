@@ -1,1 +1,1 @@
-Spring Cloud Config Server. The microservices communicate with this service.
+Spring Cloud Configuration Server. The microservices communicate with this service.
